@@ -1,0 +1,12 @@
+{
+  "name": "SnapBooth",
+  "description": "A fun and interactive web photobooth with aesthetic filters, custom frames, and instant social sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "camera_access",
+    "image_processing",
+    "social_sharing"
+  ]
+}
